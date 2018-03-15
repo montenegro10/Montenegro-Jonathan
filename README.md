@@ -2,8 +2,6 @@ Practica Alarma para Puerta
 
 Montenegro Jonathan
 
-Descripción:
-
 Descripción: Alarma para puerta con arduino uno, utilizando un red siwtch y un iman como el mecanismo de lanzamiento para la alarma, se genera una alarma visual con leds de colores. 
 
 Por lo general estos interruptores son normalmente abiertos, pero al acercarles el imán se cierra, entonces con las puertas cerradas se toman como interruptores normalmente cerrados (NC).
